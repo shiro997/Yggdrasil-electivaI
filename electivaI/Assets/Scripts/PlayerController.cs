@@ -6,10 +6,15 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody rb;
     public float speed;
+    public Transform particles;
+    private ParticleSystem particlesSystem;
+    private Vector3 position;
+
     // Start is called before the first frame update
     void Start()
     {
         rb= GetComponent<Rigidbody>();
+        particlesSystem = particles.GetComponent<ParticleSystem>();
     }
 
     // Update is called once per frame
@@ -27,5 +32,17 @@ public class PlayerController : MonoBehaviour
         float moveVertical = Input.GetAxis("Vertical");
         Vector3 movement = new Vector3(moveHorizontal,0.0f,moveVertical);
         rb.AddForce(movement*speed);
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.CompareTag("Recollectable"))
+        {
+            other.gameObject.SetActive(false);
+        }
+        else
+        {
+
+        }
     }
 }
