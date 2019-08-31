@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     {
         rb= GetComponent<Rigidbody>();
         particlesSystem = particles.GetComponent<ParticleSystem>();
+        particlesSystem.Stop();
     }
 
     // Update is called once per frame
@@ -23,9 +24,6 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    /// <summary>
-    /// This function is called every fixed framerate frame, if the MonoBehaviour is enabled.
-    /// </summary>
     void FixedUpdate()
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
@@ -38,6 +36,10 @@ public class PlayerController : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Recollectable"))
         {
+            position = other.gameObject.transform.position;
+            particles.position = position;
+            particlesSystem = particles.GetComponent<ParticleSystem>();
+            particlesSystem.Play();
             other.gameObject.SetActive(false);
         }
         else
