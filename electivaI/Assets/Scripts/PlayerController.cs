@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class PlayerController : MonoBehaviour
     public Transform particles;
     private ParticleSystem particlesSystem;
     private Vector3 position;
+    private int cubes = 12;
+    private AudioSource recollectionAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -16,11 +19,20 @@ public class PlayerController : MonoBehaviour
         rb= GetComponent<Rigidbody>();
         particlesSystem = particles.GetComponent<ParticleSystem>();
         particlesSystem.Stop();
+        recollectionAudio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(cubes == 0)
+        {
+            position = new Vector3(0.0f,0.2f,0.0f);
+            this.transform.position = position;
+            particlesSystem.Stop();
+            cubes = 12;
+            SceneManager.LoadScene(1);
+        }
         
     }
 
@@ -40,6 +52,8 @@ public class PlayerController : MonoBehaviour
             particles.position = position;
             particlesSystem = particles.GetComponent<ParticleSystem>();
             particlesSystem.Play();
+            recollectionAudio.Play();
+            cubes-=1;
             other.gameObject.SetActive(false);
         }
         else
