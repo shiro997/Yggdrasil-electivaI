@@ -1961,8 +1961,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  particles: {fileID: 6935175183716323269, guid: a0d2f5e1a3356af4086f56265401ce00,
-    type: 3}
+  particles: {fileID: 1787494690}
 --- !u!54 &584382126
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4790,11 +4789,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 709906083}
     m_Modifications:
-    - target: {fileID: 6935175183716074883, guid: a0d2f5e1a3356af4086f56265401ce00,
-        type: 3}
-      propertyPath: m_Name
-      value: Sprays_02
-      objectReference: {fileID: 0}
     - target: {fileID: 6935175183716323269, guid: a0d2f5e1a3356af4086f56265401ce00,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4849,6 +4843,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935175183716323269, guid: a0d2f5e1a3356af4086f56265401ce00,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935175183716323269, guid: a0d2f5e1a3356af4086f56265401ce00,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935175183716323269, guid: a0d2f5e1a3356af4086f56265401ce00,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6935175183716074883, guid: a0d2f5e1a3356af4086f56265401ce00,
+        type: 3}
+      propertyPath: m_Name
+      value: Sprays_02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0d2f5e1a3356af4086f56265401ce00, type: 3}
