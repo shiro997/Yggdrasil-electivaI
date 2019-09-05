@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Recollectable
+  - RecollectableBad
   layers:
   - Default
   - TransparentFX
