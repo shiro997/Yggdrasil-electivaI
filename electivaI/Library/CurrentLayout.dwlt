@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 210
     height: 635
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 635
-  m_MinSize: {x: 709, y: 498}
-  m_MaxSize: {x: 18004, y: 14048}
+  m_MinSize: {x: 713, y: 498}
+  m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 70
+  controlID: 94
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 71
+  controlID: 11
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -312,20 +312,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/materials/Level 1
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/materials/Level 1
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\ingenierias\Desktop\Git-electiva1\Yggdrasil-electivaI\electivaI
+  m_LastProjectPath: C:\Users\DiegoCortazar\Documents\Universidad\Octavo\Electiva
+    I\Project Entrega 1\Yggdrasil-electivaI\electivaI
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ea290000
-    m_LastClickedID: 10730
-    m_ExpandedIDs: 000000003c280000bc280000be280000e828000046290000ae2900003a2a000000ca9a3b
+    m_SelectedIDs: 062f0000
+    m_LastClickedID: 12038
+    m_ExpandedIDs: 00000000da2d0000582e00005a2e0000e22e0000482f0000d22f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -353,7 +354,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c280000bc280000be28000046290000ae2900003a2a0000
+    m_ExpandedIDs: 00000000da2d0000582e00005a2e0000842e0000e22e0000482f0000d22f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,9 +473,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1ca3ffff
-      m_LastClickedID: -23780
-      m_ExpandedIDs: aa9fffff1ca3ffffcaa5ffff7aa9ffff84adffff08aeffff06f8ffff1cfaffffd4fbffff2c2f0000ba3800003a3a0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 56f1ffff1cf7ffff84faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
