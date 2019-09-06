@@ -50,11 +50,11 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
+        position = other.gameObject.transform.position;
+        particles.position = position;
+        particlesSystem = particles.GetComponent<ParticleSystem>();
         if(other.gameObject.CompareTag("Recollectable"))
         {
-            position = other.gameObject.transform.position;
-            particles.position = position;
-            particlesSystem = particles.GetComponent<ParticleSystem>();
             particlesSystem.Play();
             recollectionAudio.Play();
             cubes-=1;
@@ -65,11 +65,11 @@ public class PlayerController : MonoBehaviour
         }
         else if(other.gameObject.CompareTag("RecollectableBad")) {
             position = other.gameObject.transform.position;
-             score = score - 25;
-              Debug.Log("Score: " + score);
-        }
-        {
-
+            other.gameObject.SetActive(false);
+            particlesSystem.Play();
+            recollectionAudio.Play();
+            score = score - 25;
+            Debug.Log("Score: " + score);
         }
     }
 }
