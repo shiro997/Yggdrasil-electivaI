@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour
             Debug.Log("Score: " + score);
         }else if(other.gameObject.CompareTag("Trap")){
             particlesSystem.Play();
-            position = initialPosition;
+            this.transform.position = initialPosition;
             particlesSystem.Stop();
             Debug.Log("nani!");
         }
