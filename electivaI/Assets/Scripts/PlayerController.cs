@@ -75,11 +75,6 @@ public class PlayerController : MonoBehaviour
         if(other.gameObject.CompareTag("Trap")){
             particlesSystem.Play();
             this.transform.position = initialPosition;
-<<<<<<< HEAD
-            particlesSystem.Stop();
-            Debug.Log("nani!");
-=======
->>>>>>> master
         }
     }
 }
