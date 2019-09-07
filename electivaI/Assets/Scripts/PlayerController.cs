@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    private Vector3 initialPosition = new Vector3(0.0f,0.2f,0.0f);
     private Rigidbody rb;
     public float speed;
     public Transform particles;
@@ -30,12 +31,12 @@ public class PlayerController : MonoBehaviour
     {
         if(cubes == 0)
         {
-            position = new Vector3(0.0f,0.2f,0.0f);
+            position = initialPosition;
             this.transform.position = position;
             particlesSystem.Stop();
             cubes = 12;
             SceneManager.LoadScene(1);
-             Debug.Log("Final Score Is: " +  score);
+            Debug.Log("Final Score Is: " +  score);
         }
         
     }
@@ -70,6 +71,11 @@ public class PlayerController : MonoBehaviour
             recollectionAudio.Play();
             score = score - 25;
             Debug.Log("Score: " + score);
+        }else if(other.gameObject.CompareTag("Trap")){
+            particlesSystem.Play();
+            position = initialPosition;
+            particlesSystem.Stop();
+            Debug.Log("nani!");
         }
     }
 }

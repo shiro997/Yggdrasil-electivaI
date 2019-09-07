@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Recollectable
   - RecollectableBad
+  - Trap
   layers:
   - Default
   - TransparentFX
