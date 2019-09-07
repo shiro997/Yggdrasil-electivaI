@@ -71,11 +71,15 @@ public class PlayerController : MonoBehaviour
             recollectionAudio.Play();
             score = score - 25;
             Debug.Log("Score: " + score);
-        }else if(other.gameObject.CompareTag("Trap")){
+        }
+        if(other.gameObject.CompareTag("Trap")){
             particlesSystem.Play();
             this.transform.position = initialPosition;
+<<<<<<< HEAD
             particlesSystem.Stop();
             Debug.Log("nani!");
+=======
+>>>>>>> master
         }
     }
 }
