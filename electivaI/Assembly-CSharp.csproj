@@ -13,7 +13,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
-    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
   </PropertyGroup>
@@ -62,28 +62,41 @@
      <Compile Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Script\EffectShaderPropertyStr.cs" />
      <Compile Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Script\RenderEffect.cs" />
      <Compile Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Script\TransformExtension.cs" />
+     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
+     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
+     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
+     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
+     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
+     <None Include="Assets\StreamingAssets\Vuforia\shiroDB.xml" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\effect_distortion_mask.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleAddSoftEffect.shader" />
+     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
+     <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
+     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\Toon Blended Premmultiply.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\ParticlePremultiplyBlend.shader" />
+     <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\READ ME.txt" />
+     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleAddEffect.shader" />
+     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\Toon Additive.shader" />
+     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\Sounds And Particles\Particlecollection_Free samples\Plugins\Effect\Shader\ParticleBlendEffect.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -280,6 +293,9 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="Vuforia.UnityExtensions">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.GoogleAudioSpatializer">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
  </Reference>
@@ -287,22 +303,19 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/DiegoCortazar/Documents/Universidad/Octavo/Electiva I/Proy 1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll</HintPath>
+ <HintPath>C:/Users/Ingenieria/Desktop/electiva1/Yggdrasil-electivaI/electivaI/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -649,6 +662,12 @@
  <Reference Include="System.Xml.Serialization">
  <HintPath>C:/Program Files/Unity/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="VuforiaScripts.csproj">
+      <Project>{FCE55615-26FF-4FE4-9F5D-70F14BA88A7C}</Project>      <Name>VuforiaScripts</Name>    </ProjectReference>
+    <ProjectReference Include="VuforiaEditorScripts.csproj">
+      <Project>{5E6EBC84-189C-0011-E5EF-CD45703FCAED}</Project>      <Name>VuforiaEditorScripts</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
