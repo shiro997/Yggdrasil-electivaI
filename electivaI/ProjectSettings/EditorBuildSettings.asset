@@ -5,13 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/nightLevel.unity
     guid: 97e9e41ea32d32b4980cd711647726c7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level2.unity
     guid: 27ae17acca591c442ad0c7df5990dc26
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/augmented.unity
     guid: 24d8f50d630f27f4b824f0b905365b1b
+  - enabled: 1
+    path: Assets/Scenes/TallerMateo.unity
+    guid: db8c95532dc0c3248bd2e5d7acdcacac
   m_configObjects: {}

@@ -12,8 +12,8 @@ public class Player3D : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-         rb= GetComponent<Rigidbody>();
-         Debug.Log("Score: " + score);
+      rb= GetComponent<Rigidbody>();
+      Debug.Log("Score: " + score);
         
     }
 
@@ -22,15 +22,15 @@ public class Player3D : MonoBehaviour
     {
     }
 
-      void OnTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
-        position = other.gameObject.transform.position;
-        if(other.gameObject.CompareTag("Recollectable"))
-        {
-            other.gameObject.SetActive(false);
-            count++;
-            score = score + 25;
-            Debug.Log("Score: " + score);
-        }
-          }
+      //position = other.gameObject.transform.position;
+      if(other.gameObject.CompareTag("Recollectable"))
+      {
+        other.gameObject.SetActive(false);
+        count++;
+        score = score + 25;
+        Debug.Log("Score: " + score);
+      }
+    }
 }
