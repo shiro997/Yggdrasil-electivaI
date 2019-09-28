@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TallerMateo.unity
+- path: Assets/Scenes/VirtualButtons.unity
   isLoaded: 1
   isActive: 1
