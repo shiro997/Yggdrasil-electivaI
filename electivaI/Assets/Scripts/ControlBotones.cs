@@ -41,17 +41,17 @@ public class ControlBotones : MonoBehaviour, IVirtualButtonEventHandler
             case "botonAmarillo":
                 Debug.Log("Amarillo");
                 materialCubo.color = Color.yellow;
-                break;
+            break;
 
-                case "botonAzul":
+            case "botonAzul":
                 Debug.Log("Azul");
                 materialCubo.color = Color.blue;
-                break;
+            break;
 
-                 case "botonRojo":
+            case "botonRojo":
                 Debug.Log("Rojo");
                 materialCubo.color = Color.red;
-                break;
+            break;
         }
     }
 
