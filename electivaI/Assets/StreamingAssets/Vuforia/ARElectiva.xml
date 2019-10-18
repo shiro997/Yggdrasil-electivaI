@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="pants" size="19.000000 19.000000" />
+    <ImageTarget name="mesa" size="19.000000 11.590000" />
+    <ImageTarget name="llaves" size="19.000000 14.250000" />
+    <ImageTarget name="casa" size="19.000000 19.000000" />
+    <ImageTarget name="manzana" size="19.000000 20.246876" />
+    <ImageTarget name="equipaje" size="19.000000 19.000000" />
+    <ImageTarget name="computador" size="19.000000 17.392307" />
+    <ImageTarget name="camara" size="19.000000 17.757692" />
+    <ImageTarget name="bicicleta" size="19.000000 12.821289" />
+    <ImageTarget name="carro" size="15.600000 9.716086" />
     <ImageTarget name="marcador_colores" size="10.160000 7.112000" />
     <ImageTarget name="Marcador_B" size="9.790000 8.145684" />
     <ImageTarget name="Marcador_A" size="10.870000 9.371703" />

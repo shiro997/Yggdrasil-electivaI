@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
 
+
 public class ControlBotones : MonoBehaviour, IVirtualButtonEventHandler
 {
     private GameObject buttonObjectAm;
@@ -24,6 +25,7 @@ public class ControlBotones : MonoBehaviour, IVirtualButtonEventHandler
         buttonObjectAm.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
         buttonObjectAz.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
         buttonObjectRo.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
+
 
     }
 
