@@ -21,7 +21,7 @@ public class Player3D : MonoBehaviour
     {
       if(other.gameObject.CompareTag("Recollectable"))
       {
-        //other.gameObject.SetActive(false);
+        other.gameObject.SetActive(false);
         other.attachedRigidbody.useGravity = true;
       }
     }
