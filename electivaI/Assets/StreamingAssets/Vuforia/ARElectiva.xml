@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="LogoEuforiaOfBeauty" size="10.000000 3.477089" />
+    <ImageTarget name="marcadorRepetir" size="20.000000 7.615385" />
     <ImageTarget name="pants" size="19.000000 19.000000" />
     <ImageTarget name="mesa" size="19.000000 11.590000" />
     <ImageTarget name="llaves" size="19.000000 14.250000" />
