@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 04421ad6bc0d5c4468a5b828939c0a80
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f02000040020000410200004202000043020000440200004502000046020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1abf89290cba685c8fc20ae2bcb0204a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.6535707, y: 0.99901074, z: -1.7712581}
+      lookAt: {x: -1.0552938, y: 0.601239, z: -0.7517645}
+      up: {x: 0.17312892, y: 0.9786883, z: 0.11043384}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Assembly~10
+    100002: Assembly~100
+    100004: Assembly~103
+    100006: Assembly~105
+    100008: Assembly~107
+    100010: Assembly~109
+    100012: Assembly~111
+    100014: Assembly~113
+    100016: Assembly~115
+    100018: Assembly~117
+    100020: Assembly~119
+    100022: Assembly~12
+    100024: Assembly~121
+    100026: Assembly~123
+    100028: Assembly~125
+    100030: Assembly~127
+    100032: Assembly~129
+    100034: Assembly~131
+    100036: Assembly~133
+    100038: Assembly~135
+    100040: Assembly~137
+    100042: Assembly~140
+    100044: Assembly~142
+    100046: Assembly~144
+    100048: Assembly~146
+    100050: Assembly~148
+    100052: Assembly~15
+    100054: Assembly~150
+    100056: Assembly~152
+    100058: Assembly~154
+    100060: Assembly~156
+    100062: Assembly~158
+    100064: Assembly~160
+    100066: Assembly~162
+    100068: Assembly~164
+    100070: Assembly~166
+    100072: Assembly~168
+    100074: Assembly~17
+    100076: Assembly~170
+    100078: Assembly~172
+    100080: Assembly~174
+    100082: Assembly~179
+    100084: Assembly~182
+    100086: Assembly~184
+    100088: Assembly~186
+    100090: Assembly~188
+    100092: Assembly~190
+    100094: Assembly~192
+    100096: Assembly~198
+    100098: Assembly~20
+    100100: Assembly~200
+    100102: Assembly~202
+    100104: Assembly~205
+    100106: Assembly~207
+    100108: Assembly~209
+    100110: Assembly~211
+    100112: Assembly~214
+    100114: Assembly~216
+    100116: Assembly~219
+    100118: Assembly~22
+    100120: Assembly~221
+    100122: Assembly~223
+    100124: Assembly~225
+    100126: Assembly~227
+    100128: Assembly~230
+    100130: Assembly~233
+    100132: Assembly~235
+    100134: Assembly~237
+    100136: Assembly~24
+    100138: Assembly~240
+    100140: Assembly~242
+    100142: Assembly~243
+    100144: Assembly~27
+    100146: Assembly~29
+    100148: Assembly~31
+    100150: Assembly~33
+    100152: Assembly~35
+    100154: Assembly~37
+    100156: Assembly~39
+    100158: Assembly~41
+    100160: Assembly~43
+    100162: Assembly~45
+    100164: Assembly~47
+    100166: Assembly~49
+    100168: Assembly~51
+    100170: Assembly~53
+    100172: Assembly~55
+    100174: Assembly~57
+    100176: Assembly~59
+    100178: Assembly~6
+    100180: Assembly~61
+    100182: Assembly~64
+    100184: Assembly~66
+    100186: Assembly~68
+    100188: Assembly~70
+    100190: Assembly~72
+    100192: Assembly~74
+    100194: Assembly~76
+    100196: Assembly~78
+    100198: Assembly~8
+    100200: Assembly~80
+    100202: Assembly~82
+    100204: Assembly~84
+    100206: Assembly~86
+    100208: Assembly~88
+    100210: Assembly~90
+    100212: Assembly~92
+    100214: Assembly~94
+    100216: Assembly~96
+    100218: Assembly~98
+    100220: //RootNode
+    100222: bicycle
+    100224: Bicycle_2017
+    100226: Box002
+    100228: Box003
+    100230: Box004
+    100232: Box005
+    100234: Box005 1
+    100236: Box005 2
+    100238: Cylinder001
+    100240: Cylinder001 1
+    100242: Cylinder003
+    100244: Cylinder004
+    100246: Cylinder005
+    100248: Cylinder006
+    100250: Cylinder007
+    100252: Cylinder007 1
+    100254: Cylinder008
+    100256: Cylinder008 1
+    100258: Cylinder009
+    100260: Cylinder009 1
+    100262: Cylinder010
+    100264: Cylinder011
+    100266: Cylinder012
+    100268: Cylinder012 1
+    100270: Cylinder013
+    100272: Cylinder014
+    100274: Cylinder016
+    100276: Cylinder017
+    100278: Group001
+    100280: Group002
+    100282: Group003
+    100284: Group004
+    100286: Group006
+    100288: Group007
+    100290: Group009
+    100292: Group010
+    100294: Group011
+    100296: Group012
+    100298: Group013
+    100300: Line005
+    100302: Line006
+    100304: Line007
+    100306: Line007 1
+    100308: Line007 2
+    100310: Line010
+    100312: Line010 1
+    100314: Line010 2
+    100316: Line011
+    100318: Line011 1
+    100320: Line011 2
+    100322: Line012
+    100324: Line012 1
+    100326: Line012 2
+    100328: Line013
+    100330: Line013 1
+    100332: Line013 2
+    100334: Line014
+    100336: Line014 1
+    100338: Line014 2
+    100340: Line015
+    100342: Line015 1
+    100344: Line015 2
+    100346: Line016
+    100348: Line016 1
+    100350: Line016 2
+    100352: Line017
+    100354: Line017 1
+    100356: Line017 2
+    100358: Line018
+    100360: Line018 1
+    100362: Line018 2
+    100364: Line019
+    100366: Line019 1
+    100368: Line019 2
+    100370: Line020
+    100372: Line020 1
+    100374: Line020 2
+    100376: Line021
+    100378: Line021 1
+    100380: Line021 2
+    100382: Line022
+    100384: Line022 1
+    100386: Line022 2
+    100388: Line023
+    100390: Line023 1
+    100392: Line023 2
+    100394: Line024
+    100396: Line024 1
+    100398: Line024 2
+    100400: Line025
+    100402: Line025 1
+    100404: Line025 2
+    100406: Line026
+    100408: Line026 1
+    100410: Line026 2
+    100412: Line027
+    100414: Line027 1
+    100416: Line027 2
+    100418: Line028
+    100420: Line028 1
+    100422: Line028 2
+    100424: Line029
+    100426: Line029 1
+    100428: Line029 2
+    100430: Line030
+    100432: Line030 1
+    100434: Line030 2
+    100436: Line031
+    100438: Line031 1
+    100440: Line031 2
+    100442: Line032
+    100444: Line032 1
+    100446: Line032 2
+    100448: Line033
+    100450: Line033 1
+    100452: Line033 2
+    100454: Line034
+    100456: Line034 1
+    100458: Line034 2
+    100460: Line035
+    100462: Line035 1
+    100464: Line035 2
+    100466: Line036
+    100468: Line036 1
+    100470: Line036 2
+    100472: Line037
+    100474: Line037 1
+    100476: Line037 2
+    100478: Line038
+    100480: Line038 1
+    100482: Line038 2
+    100484: Line039
+    100486: Line039 1
+    100488: Line039 2
+    100490: Line040
+    100492: Line040 1
+    100494: Line040 2
+    100496: Line041
+    100498: Line041 1
+    100500: Line041 2
+    100502: Line042
+    100504: Line042 1
+    100506: Line042 2
+    100508: Line043
+    100510: Line043 1
+    100512: Line043 2
+    100514: Line044
+    100516: Line044 1
+    100518: Line044 2
+    100520: Line045
+    100522: Line045 1
+    100524: Line045 2
+    100526: Line046
+    100528: Line046 1
+    100530: Line046 2
+    100532: Line047
+    100534: Line047 1
+    100536: Line047 2
+    100538: Line048
+    100540: Line048 1
+    100542: Line048 2
+    100544: Line049
+    100546: Line049 1
+    100548: Line049 2
+    100550: Line050
+    100552: Line050 1
+    100554: Line050 2
+    100556: Line051
+    100558: Line051 1
+    100560: Line051 2
+    100562: Line052
+    100564: Line052 1
+    100566: Line052 2
+    100568: Line053
+    100570: Line053 1
+    100572: Line053 2
+    100574: Line054
+    100576: Line054 1
+    100578: Line054 2
+    100580: Line055
+    100582: Line055 1
+    100584: Line055 2
+    100586: Line056
+    100588: Line056 1
+    100590: Line056 2
+    100592: Line057
+    100594: Line057 1
+    100596: Line057 2
+    100598: Line058
+    100600: Line058 1
+    100602: Line058 2
+    100604: Line059
+    100606: Line059 1
+    100608: Line059 2
+    100610: Line060
+    100612: Line060 1
+    100614: Line060 2
+    100616: Line061
+    100618: Line061 1
+    100620: Line061 2
+    100622: Line062
+    100624: Line062 1
+    100626: Line062 2
+    100628: Line063
+    100630: Line063 1
+    100632: Line063 2
+    100634: Line064
+    100636: Line064 1
+    100638: Line064 2
+    100640: Line065
+    100642: Line065 1
+    100644: Line065 2
+    100646: Line066
+    100648: Line066 1
+    100650: Line066 2
+    100652: Line067
+    100654: Line067 1
+    100656: Line067 2
+    100658: Line068
+    100660: Line068 1
+    100662: Line068 2
+    100664: Line069
+    100666: Line069 1
+    100668: Line069 2
+    100670: Line070
+    100672: Line070 1
+    100674: Line070 2
+    100676: Line071
+    100678: Line071 1
+    100680: Line071 2
+    100682: Line072
+    100684: Line072 1
+    100686: Line072 2
+    100688: Line073
+    100690: Line073 1
+    100692: Line073 2
+    100694: Line074
+    100696: Line074 1
+    100698: Line074 2
+    100700: Line075
+    100702: Line075 1
+    100704: Line075 2
+    100706: Line076
+    100708: Line076 1
+    100710: Line076 2
+    100712: Line077
+    100714: Line077 1
+    100716: Line077 2
+    100718: Line078
+    100720: Line078 1
+    100722: Line078 2
+    100724: Line079
+    100726: Line079 1
+    100728: Line079 2
+    100730: Line080
+    100732: Line080 1
+    100734: Line080 2
+    100736: Line081
+    100738: Line081 1
+    100740: Line081 2
+    100742: Object006
+    100744: Object006 1
+    100746: Object007
+    100748: Object007 1
+    100750: Plane004
+    100752: Plane005
+    100754: Plane006
+    100756: Plane007
+    100758: Plane008
+    100760: Plane031
+    100762: Plane031 1
+    100764: Plane032
+    100766: Plane032 1
+    100768: Plane034
+    100770: Plane034 1
+    100772: Plane034 2
+    100774: Plane035
+    100776: Plane035 1
+    100778: Plane035 2
+    100780: Rectangle002
+    100782: seat
+    100784: seat 1
+    100786: Text001
+    100788: Tube
+    100790: Tube 1
+    100792: Tube 2
+    400000: Assembly~10
+    400002: Assembly~100
+    400004: Assembly~103
+    400006: Assembly~105
+    400008: Assembly~107
+    400010: Assembly~109
+    400012: Assembly~111
+    400014: Assembly~113
+    400016: Assembly~115
+    400018: Assembly~117
+    400020: Assembly~119
+    400022: Assembly~12
+    400024: Assembly~121
+    400026: Assembly~123
+    400028: Assembly~125
+    400030: Assembly~127
+    400032: Assembly~129
+    400034: Assembly~131
+    400036: Assembly~133
+    400038: Assembly~135
+    400040: Assembly~137
+    400042: Assembly~140
+    400044: Assembly~142
+    400046: Assembly~144
+    400048: Assembly~146
+    400050: Assembly~148
+    400052: Assembly~15
+    400054: Assembly~150
+    400056: Assembly~152
+    400058: Assembly~154
+    400060: Assembly~156
+    400062: Assembly~158
+    400064: Assembly~160
+    400066: Assembly~162
+    400068: Assembly~164
+    400070: Assembly~166
+    400072: Assembly~168
+    400074: Assembly~17
+    400076: Assembly~170
+    400078: Assembly~172
+    400080: Assembly~174
+    400082: Assembly~179
+    400084: Assembly~182
+    400086: Assembly~184
+    400088: Assembly~186
+    400090: Assembly~188
+    400092: Assembly~190
+    400094: Assembly~192
+    400096: Assembly~198
+    400098: Assembly~20
+    400100: Assembly~200
+    400102: Assembly~202
+    400104: Assembly~205
+    400106: Assembly~207
+    400108: Assembly~209
+    400110: Assembly~211
+    400112: Assembly~214
+    400114: Assembly~216
+    400116: Assembly~219
+    400118: Assembly~22
+    400120: Assembly~221
+    400122: Assembly~223
+    400124: Assembly~225
+    400126: Assembly~227
+    400128: Assembly~230
+    400130: Assembly~233
+    400132: Assembly~235
+    400134: Assembly~237
+    400136: Assembly~24
+    400138: Assembly~240
+    400140: Assembly~242
+    400142: Assembly~243
+    400144: Assembly~27
+    400146: Assembly~29
+    400148: Assembly~31
+    400150: Assembly~33
+    400152: Assembly~35
+    400154: Assembly~37
+    400156: Assembly~39
+    400158: Assembly~41
+    400160: Assembly~43
+    400162: Assembly~45
+    400164: Assembly~47
+    400166: Assembly~49
+    400168: Assembly~51
+    400170: Assembly~53
+    400172: Assembly~55
+    400174: Assembly~57
+    400176: Assembly~59
+    400178: Assembly~6
+    400180: Assembly~61
+    400182: Assembly~64
+    400184: Assembly~66
+    400186: Assembly~68
+    400188: Assembly~70
+    400190: Assembly~72
+    400192: Assembly~74
+    400194: Assembly~76
+    400196: Assembly~78
+    400198: Assembly~8
+    400200: Assembly~80
+    400202: Assembly~82
+    400204: Assembly~84
+    400206: Assembly~86
+    400208: Assembly~88
+    400210: Assembly~90
+    400212: Assembly~92
+    400214: Assembly~94
+    400216: Assembly~96
+    400218: Assembly~98
+    400220: //RootNode
+    400222: bicycle
+    400224: Bicycle_2017
+    400226: Box002
+    400228: Box003
+    400230: Box004
+    400232: Box005
+    400234: Box005 1
+    400236: Box005 2
+    400238: Cylinder001
+    400240: Cylinder001 1
+    400242: Cylinder003
+    400244: Cylinder004
+    400246: Cylinder005
+    400248: Cylinder006
+    400250: Cylinder007
+    400252: Cylinder007 1
+    400254: Cylinder008
+    400256: Cylinder008 1
+    400258: Cylinder009
+    400260: Cylinder009 1
+    400262: Cylinder010
+    400264: Cylinder011
+    400266: Cylinder012
+    400268: Cylinder012 1
+    400270: Cylinder013
+    400272: Cylinder014
+    400274: Cylinder016
+    400276: Cylinder017
+    400278: Group001
+    400280: Group002
+    400282: Group003
+    400284: Group004
+    400286: Group006
+    400288: Group007
+    400290: Group009
+    400292: Group010
+    400294: Group011
+    400296: Group012
+    400298: Group013
+    400300: Line005
+    400302: Line006
+    400304: Line007
+    400306: Line007 1
+    400308: Line007 2
+    400310: Line010
+    400312: Line010 1
+    400314: Line010 2
+    400316: Line011
+    400318: Line011 1
+    400320: Line011 2
+    400322: Line012
+    400324: Line012 1
+    400326: Line012 2
+    400328: Line013
+    400330: Line013 1
+    400332: Line013 2
+    400334: Line014
+    400336: Line014 1
+    400338: Line014 2
+    400340: Line015
+    400342: Line015 1
+    400344: Line015 2
+    400346: Line016
+    400348: Line016 1
+    400350: Line016 2
+    400352: Line017
+    400354: Line017 1
+    400356: Line017 2
+    400358: Line018
+    400360: Line018 1
+    400362: Line018 2
+    400364: Line019
+    400366: Line019 1
+    400368: Line019 2
+    400370: Line020
+    400372: Line020 1
+    400374: Line020 2
+    400376: Line021
+    400378: Line021 1
+    400380: Line021 2
+    400382: Line022
+    400384: Line022 1
+    400386: Line022 2
+    400388: Line023
+    400390: Line023 1
+    400392: Line023 2
+    400394: Line024
+    400396: Line024 1
+    400398: Line024 2
+    400400: Line025
+    400402: Line025 1
+    400404: Line025 2
+    400406: Line026
+    400408: Line026 1
+    400410: Line026 2
+    400412: Line027
+    400414: Line027 1
+    400416: Line027 2
+    400418: Line028
+    400420: Line028 1
+    400422: Line028 2
+    400424: Line029
+    400426: Line029 1
+    400428: Line029 2
+    400430: Line030
+    400432: Line030 1
+    400434: Line030 2
+    400436: Line031
+    400438: Line031 1
+    400440: Line031 2
+    400442: Line032
+    400444: Line032 1
+    400446: Line032 2
+    400448: Line033
+    400450: Line033 1
+    400452: Line033 2
+    400454: Line034
+    400456: Line034 1
+    400458: Line034 2
+    400460: Line035
+    400462: Line035 1
+    400464: Line035 2
+    400466: Line036
+    400468: Line036 1
+    400470: Line036 2
+    400472: Line037
+    400474: Line037 1
+    400476: Line037 2
+    400478: Line038
+    400480: Line038 1
+    400482: Line038 2
+    400484: Line039
+    400486: Line039 1
+    400488: Line039 2
+    400490: Line040
+    400492: Line040 1
+    400494: Line040 2
+    400496: Line041
+    400498: Line041 1
+    400500: Line041 2
+    400502: Line042
+    400504: Line042 1
+    400506: Line042 2
+    400508: Line043
+    400510: Line043 1
+    400512: Line043 2
+    400514: Line044
+    400516: Line044 1
+    400518: Line044 2
+    400520: Line045
+    400522: Line045 1
+    400524: Line045 2
+    400526: Line046
+    400528: Line046 1
+    400530: Line046 2
+    400532: Line047
+    400534: Line047 1
+    400536: Line047 2
+    400538: Line048
+    400540: Line048 1
+    400542: Line048 2
+    400544: Line049
+    400546: Line049 1
+    400548: Line049 2
+    400550: Line050
+    400552: Line050 1
+    400554: Line050 2
+    400556: Line051
+    400558: Line051 1
+    400560: Line051 2
+    400562: Line052
+    400564: Line052 1
+    400566: Line052 2
+    400568: Line053
+    400570: Line053 1
+    400572: Line053 2
+    400574: Line054
+    400576: Line054 1
+    400578: Line054 2
+    400580: Line055
+    400582: Line055 1
+    400584: Line055 2
+    400586: Line056
+    400588: Line056 1
+    400590: Line056 2
+    400592: Line057
+    400594: Line057 1
+    400596: Line057 2
+    400598: Line058
+    400600: Line058 1
+    400602: Line058 2
+    400604: Line059
+    400606: Line059 1
+    400608: Line059 2
+    400610: Line060
+    400612: Line060 1
+    400614: Line060 2
+    400616: Line061
+    400618: Line061 1
+    400620: Line061 2
+    400622: Line062
+    400624: Line062 1
+    400626: Line062 2
+    400628: Line063
+    400630: Line063 1
+    400632: Line063 2
+    400634: Line064
+    400636: Line064 1
+    400638: Line064 2
+    400640: Line065
+    400642: Line065 1
+    400644: Line065 2
+    400646: Line066
+    400648: Line066 1
+    400650: Line066 2
+    400652: Line067
+    400654: Line067 1
+    400656: Line067 2
+    400658: Line068
+    400660: Line068 1
+    400662: Line068 2
+    400664: Line069
+    400666: Line069 1
+    400668: Line069 2
+    400670: Line070
+    400672: Line070 1
+    400674: Line070 2
+    400676: Line071
+    400678: Line071 1
+    400680: Line071 2
+    400682: Line072
+    400684: Line072 1
+    400686: Line072 2
+    400688: Line073
+    400690: Line073 1
+    400692: Line073 2
+    400694: Line074
+    400696: Line074 1
+    400698: Line074 2
+    400700: Line075
+    400702: Line075 1
+    400704: Line075 2
+    400706: Line076
+    400708: Line076 1
+    400710: Line076 2
+    400712: Line077
+    400714: Line077 1
+    400716: Line077 2
+    400718: Line078
+    400720: Line078 1
+    400722: Line078 2
+    400724: Line079
+    400726: Line079 1
+    400728: Line079 2
+    400730: Line080
+    400732: Line080 1
+    400734: Line080 2
+    400736: Line081
+    400738: Line081 1
+    400740: Line081 2
+    400742: Object006
+    400744: Object006 1
+    400746: Object007
+    400748: Object007 1
+    400750: Plane004
+    400752: Plane005
+    400754: Plane006
+    400756: Plane007
+    400758: Plane008
+    400760: Plane031
+    400762: Plane031 1
+    400764: Plane032
+    400766: Plane032 1
+    400768: Plane034
+    400770: Plane034 1
+    400772: Plane034 2
+    400774: Plane035
+    400776: Plane035 1
+    400778: Plane035 2
+    400780: Rectangle002
+    400782: seat
+    400784: seat 1
+    400786: Text001
+    400788: Tube
+    400790: Tube 1
+    400792: Tube 2
+    2100000: Body
+    2100002: Chrome
+    2100004: 'Material #860'
+    2100006: Black_metal
+    2100008: Tire
+    2100010: Leather
+    2100012: 88,199,225
+    2100014: 'Material #861'
+    2100016: 'Material #862'
+    2300000: Assembly~10
+    2300002: Assembly~12
+    2300004: Assembly~15
+    2300006: Assembly~17
+    2300008: Assembly~188
+    2300010: Assembly~190
+    2300012: Assembly~192
+    2300014: Assembly~198
+    2300016: Assembly~200
+    2300018: Assembly~202
+    2300020: Assembly~205
+    2300022: Assembly~207
+    2300024: Assembly~209
+    2300026: Assembly~211
+    2300028: Assembly~214
+    2300030: Assembly~216
+    2300032: Assembly~219
+    2300034: Assembly~221
+    2300036: Assembly~223
+    2300038: Assembly~225
+    2300040: Assembly~230
+    2300042: Assembly~24
+    2300044: Box005 1
+    2300046: Box005 2
+    2300048: Cylinder001 1
+    2300050: Cylinder007 1
+    2300052: Cylinder008 1
+    2300054: Cylinder009 1
+    2300056: Cylinder012 1
+    2300058: Line007 1
+    2300060: Line007 2
+    2300062: Line010 1
+    2300064: Line010 2
+    2300066: Line011 1
+    2300068: Line011 2
+    2300070: Line012 1
+    2300072: Line012 2
+    2300074: Line013 1
+    2300076: Line013 2
+    2300078: Line014 1
+    2300080: Line014 2
+    2300082: Line015 1
+    2300084: Line015 2
+    2300086: Line016 1
+    2300088: Line016 2
+    2300090: Line017 1
+    2300092: Line017 2
+    2300094: Line018 1
+    2300096: Line018 2
+    2300098: Line019 1
+    2300100: Line019 2
+    2300102: Line020 1
+    2300104: Line020 2
+    2300106: Line021 1
+    2300108: Line021 2
+    2300110: Line022 1
+    2300112: Line022 2
+    2300114: Line023 1
+    2300116: Line023 2
+    2300118: Line024 1
+    2300120: Line024 2
+    2300122: Line025 1
+    2300124: Line025 2
+    2300126: Line026 1
+    2300128: Line026 2
+    2300130: Line027 1
+    2300132: Line027 2
+    2300134: Line028 1
+    2300136: Line028 2
+    2300138: Line029 1
+    2300140: Line029 2
+    2300142: Line030 1
+    2300144: Line030 2
+    2300146: Line031 1
+    2300148: Line031 2
+    2300150: Line032 1
+    2300152: Line032 2
+    2300154: Line033 1
+    2300156: Line033 2
+    2300158: Line034 1
+    2300160: Line034 2
+    2300162: Line035 1
+    2300164: Line035 2
+    2300166: Line036 1
+    2300168: Line036 2
+    2300170: Line037 1
+    2300172: Line037 2
+    2300174: Line038 1
+    2300176: Line038 2
+    2300178: Line039 1
+    2300180: Line039 2
+    2300182: Line040 1
+    2300184: Line040 2
+    2300186: Line041 1
+    2300188: Line041 2
+    2300190: Line042 1
+    2300192: Line042 2
+    2300194: Line043 1
+    2300196: Line043 2
+    2300198: Line044 1
+    2300200: Line044 2
+    2300202: Line045 1
+    2300204: Line045 2
+    2300206: Line046 1
+    2300208: Line046 2
+    2300210: Line047 1
+    2300212: Line047 2
+    2300214: Line048 1
+    2300216: Line048 2
+    2300218: Line049 1
+    2300220: Line049 2
+    2300222: Line050 1
+    2300224: Line050 2
+    2300226: Line051 1
+    2300228: Line051 2
+    2300230: Line052 1
+    2300232: Line052 2
+    2300234: Line053 1
+    2300236: Line053 2
+    2300238: Line054 1
+    2300240: Line054 2
+    2300242: Line055 1
+    2300244: Line055 2
+    2300246: Line056 1
+    2300248: Line056 2
+    2300250: Line057 1
+    2300252: Line057 2
+    2300254: Line058 1
+    2300256: Line058 2
+    2300258: Line059 1
+    2300260: Line059 2
+    2300262: Line060 1
+    2300264: Line060 2
+    2300266: Line061 1
+    2300268: Line061 2
+    2300270: Line062 1
+    2300272: Line062 2
+    2300274: Line063 1
+    2300276: Line063 2
+    2300278: Line064 1
+    2300280: Line064 2
+    2300282: Line065 1
+    2300284: Line065 2
+    2300286: Line066 1
+    2300288: Line066 2
+    2300290: Line067 1
+    2300292: Line067 2
+    2300294: Line068 1
+    2300296: Line068 2
+    2300298: Line069 1
+    2300300: Line069 2
+    2300302: Line070 1
+    2300304: Line070 2
+    2300306: Line071 1
+    2300308: Line071 2
+    2300310: Line072 1
+    2300312: Line072 2
+    2300314: Line073 1
+    2300316: Line073 2
+    2300318: Line074 1
+    2300320: Line074 2
+    2300322: Line075 1
+    2300324: Line075 2
+    2300326: Line076 1
+    2300328: Line076 2
+    2300330: Line077 1
+    2300332: Line077 2
+    2300334: Line078 1
+    2300336: Line078 2
+    2300338: Line079 1
+    2300340: Line079 2
+    2300342: Line080 1
+    2300344: Line080 2
+    2300346: Line081 1
+    2300348: Line081 2
+    2300350: Object006 1
+    2300352: Object007 1
+    2300354: Plane031 1
+    2300356: Plane032 1
+    2300358: Plane034 1
+    2300360: Plane034 2
+    2300362: Plane035 1
+    2300364: Plane035 2
+    2300366: seat 1
+    2300368: Tube 1
+    2300370: Tube 2
+    3300000: Assembly~10
+    3300002: Assembly~12
+    3300004: Assembly~15
+    3300006: Assembly~17
+    3300008: Assembly~188
+    3300010: Assembly~190
+    3300012: Assembly~192
+    3300014: Assembly~198
+    3300016: Assembly~200
+    3300018: Assembly~202
+    3300020: Assembly~205
+    3300022: Assembly~207
+    3300024: Assembly~209
+    3300026: Assembly~211
+    3300028: Assembly~214
+    3300030: Assembly~216
+    3300032: Assembly~219
+    3300034: Assembly~221
+    3300036: Assembly~223
+    3300038: Assembly~225
+    3300040: Assembly~230
+    3300042: Assembly~24
+    3300044: Box005 1
+    3300046: Box005 2
+    3300048: Cylinder001 1
+    3300050: Cylinder007 1
+    3300052: Cylinder008 1
+    3300054: Cylinder009 1
+    3300056: Cylinder012 1
+    3300058: Line007 1
+    3300060: Line007 2
+    3300062: Line010 1
+    3300064: Line010 2
+    3300066: Line011 1
+    3300068: Line011 2
+    3300070: Line012 1
+    3300072: Line012 2
+    3300074: Line013 1
+    3300076: Line013 2
+    3300078: Line014 1
+    3300080: Line014 2
+    3300082: Line015 1
+    3300084: Line015 2
+    3300086: Line016 1
+    3300088: Line016 2
+    3300090: Line017 1
+    3300092: Line017 2
+    3300094: Line018 1
+    3300096: Line018 2
+    3300098: Line019 1
+    3300100: Line019 2
+    3300102: Line020 1
+    3300104: Line020 2
+    3300106: Line021 1
+    3300108: Line021 2
+    3300110: Line022 1
+    3300112: Line022 2
+    3300114: Line023 1
+    3300116: Line023 2
+    3300118: Line024 1
+    3300120: Line024 2
+    3300122: Line025 1
+    3300124: Line025 2
+    3300126: Line026 1
+    3300128: Line026 2
+    3300130: Line027 1
+    3300132: Line027 2
+    3300134: Line028 1
+    3300136: Line028 2
+    3300138: Line029 1
+    3300140: Line029 2
+    3300142: Line030 1
+    3300144: Line030 2
+    3300146: Line031 1
+    3300148: Line031 2
+    3300150: Line032 1
+    3300152: Line032 2
+    3300154: Line033 1
+    3300156: Line033 2
+    3300158: Line034 1
+    3300160: Line034 2
+    3300162: Line035 1
+    3300164: Line035 2
+    3300166: Line036 1
+    3300168: Line036 2
+    3300170: Line037 1
+    3300172: Line037 2
+    3300174: Line038 1
+    3300176: Line038 2
+    3300178: Line039 1
+    3300180: Line039 2
+    3300182: Line040 1
+    3300184: Line040 2
+    3300186: Line041 1
+    3300188: Line041 2
+    3300190: Line042 1
+    3300192: Line042 2
+    3300194: Line043 1
+    3300196: Line043 2
+    3300198: Line044 1
+    3300200: Line044 2
+    3300202: Line045 1
+    3300204: Line045 2
+    3300206: Line046 1
+    3300208: Line046 2
+    3300210: Line047 1
+    3300212: Line047 2
+    3300214: Line048 1
+    3300216: Line048 2
+    3300218: Line049 1
+    3300220: Line049 2
+    3300222: Line050 1
+    3300224: Line050 2
+    3300226: Line051 1
+    3300228: Line051 2
+    3300230: Line052 1
+    3300232: Line052 2
+    3300234: Line053 1
+    3300236: Line053 2
+    3300238: Line054 1
+    3300240: Line054 2
+    3300242: Line055 1
+    3300244: Line055 2
+    3300246: Line056 1
+    3300248: Line056 2
+    3300250: Line057 1
+    3300252: Line057 2
+    3300254: Line058 1
+    3300256: Line058 2
+    3300258: Line059 1
+    3300260: Line059 2
+    3300262: Line060 1
+    3300264: Line060 2
+    3300266: Line061 1
+    3300268: Line061 2
+    3300270: Line062 1
+    3300272: Line062 2
+    3300274: Line063 1
+    3300276: Line063 2
+    3300278: Line064 1
+    3300280: Line064 2
+    3300282: Line065 1
+    3300284: Line065 2
+    3300286: Line066 1
+    3300288: Line066 2
+    3300290: Line067 1
+    3300292: Line067 2
+    3300294: Line068 1
+    3300296: Line068 2
+    3300298: Line069 1
+    3300300: Line069 2
+    3300302: Line070 1
+    3300304: Line070 2
+    3300306: Line071 1
+    3300308: Line071 2
+    3300310: Line072 1
+    3300312: Line072 2
+    3300314: Line073 1
+    3300316: Line073 2
+    3300318: Line074 1
+    3300320: Line074 2
+    3300322: Line075 1
+    3300324: Line075 2
+    3300326: Line076 1
+    3300328: Line076 2
+    3300330: Line077 1
+    3300332: Line077 2
+    3300334: Line078 1
+    3300336: Line078 2
+    3300338: Line079 1
+    3300340: Line079 2
+    3300342: Line080 1
+    3300344: Line080 2
+    3300346: Line081 1
+    3300348: Line081 2
+    3300350: Object006 1
+    3300352: Object007 1
+    3300354: Plane031 1
+    3300356: Plane032 1
+    3300358: Plane034 1
+    3300360: Plane034 2
+    3300362: Plane035 1
+    3300364: Plane035 2
+    3300366: seat 1
+    3300368: Tube 1
+    3300370: Tube 2
+    4300000: Mesh Object006
+    4300002: Mesh Object007
+    4300004: Mesh Assembly~10
+    4300006: Mesh Assembly~12
+    4300008: Mesh Assembly~15
+    4300010: Mesh Assembly~17
+    4300012: Mesh Plane035
+    4300014: Mesh Plane035
+    4300016: Mesh Plane034
+    4300018: Mesh Plane034
+    4300020: Mesh Assembly~24
+    4300022: Mesh Line064
+    4300024: Mesh Line064
+    4300026: Mesh Line065
+    4300028: Mesh Line065
+    4300030: Mesh Line066
+    4300032: Mesh Line066
+    4300034: Mesh Line067
+    4300036: Mesh Line067
+    4300038: Mesh Line068
+    4300040: Mesh Line068
+    4300042: Mesh Line069
+    4300044: Mesh Line069
+    4300046: Mesh Line070
+    4300048: Mesh Line070
+    4300050: Mesh Line071
+    4300052: Mesh Line071
+    4300054: Mesh Line072
+    4300056: Mesh Line072
+    4300058: Mesh Line073
+    4300060: Mesh Line073
+    4300062: Mesh Line074
+    4300064: Mesh Line074
+    4300066: Mesh Line075
+    4300068: Mesh Line075
+    4300070: Mesh Line076
+    4300072: Mesh Line076
+    4300074: Mesh Line077
+    4300076: Mesh Line077
+    4300078: Mesh Line078
+    4300080: Mesh Line078
+    4300082: Mesh Line079
+    4300084: Mesh Line079
+    4300086: Mesh Line080
+    4300088: Mesh Line080
+    4300090: Mesh Line081
+    4300092: Mesh Line081
+    4300094: Mesh Line046
+    4300096: Mesh Line046
+    4300098: Mesh Line047
+    4300100: Mesh Line047
+    4300102: Mesh Line048
+    4300104: Mesh Line048
+    4300106: Mesh Line049
+    4300108: Mesh Line049
+    4300110: Mesh Line050
+    4300112: Mesh Line050
+    4300114: Mesh Line051
+    4300116: Mesh Line051
+    4300118: Mesh Line052
+    4300120: Mesh Line052
+    4300122: Mesh Line053
+    4300124: Mesh Line053
+    4300126: Mesh Line054
+    4300128: Mesh Line054
+    4300130: Mesh Line055
+    4300132: Mesh Line055
+    4300134: Mesh Line056
+    4300136: Mesh Line056
+    4300138: Mesh Line057
+    4300140: Mesh Line057
+    4300142: Mesh Line058
+    4300144: Mesh Line058
+    4300146: Mesh Line059
+    4300148: Mesh Line059
+    4300150: Mesh Line060
+    4300152: Mesh Line060
+    4300154: Mesh Line061
+    4300156: Mesh Line061
+    4300158: Mesh Line062
+    4300160: Mesh Line062
+    4300162: Mesh Line063
+    4300164: Mesh Line063
+    4300166: Mesh Cylinder012
+    4300168: Mesh Line028
+    4300170: Mesh Line028
+    4300172: Mesh Line029
+    4300174: Mesh Line029
+    4300176: Mesh Line030
+    4300178: Mesh Line030
+    4300180: Mesh Line031
+    4300182: Mesh Line031
+    4300184: Mesh Line032
+    4300186: Mesh Line032
+    4300188: Mesh Line033
+    4300190: Mesh Line033
+    4300192: Mesh Line034
+    4300194: Mesh Line034
+    4300196: Mesh Line035
+    4300198: Mesh Line035
+    4300200: Mesh Line036
+    4300202: Mesh Line036
+    4300204: Mesh Line037
+    4300206: Mesh Line037
+    4300208: Mesh Line038
+    4300210: Mesh Line038
+    4300212: Mesh Line039
+    4300214: Mesh Line039
+    4300216: Mesh Line040
+    4300218: Mesh Line040
+    4300220: Mesh Line041
+    4300222: Mesh Line041
+    4300224: Mesh Line042
+    4300226: Mesh Line042
+    4300228: Mesh Line043
+    4300230: Mesh Line043
+    4300232: Mesh Line044
+    4300234: Mesh Line044
+    4300236: Mesh Line045
+    4300238: Mesh Line045
+    4300240: Mesh Line027
+    4300242: Mesh Line027
+    4300244: Mesh Line026
+    4300246: Mesh Line026
+    4300248: Mesh Line025
+    4300250: Mesh Line025
+    4300252: Mesh Line024
+    4300254: Mesh Line024
+    4300256: Mesh Line023
+    4300258: Mesh Line023
+    4300260: Mesh Line022
+    4300262: Mesh Line022
+    4300264: Mesh Line021
+    4300266: Mesh Line021
+    4300268: Mesh Line020
+    4300270: Mesh Line020
+    4300272: Mesh Line019
+    4300274: Mesh Line019
+    4300276: Mesh Line018
+    4300278: Mesh Line018
+    4300280: Mesh Line017
+    4300282: Mesh Line017
+    4300284: Mesh Line016
+    4300286: Mesh Line016
+    4300288: Mesh Line015
+    4300290: Mesh Line015
+    4300292: Mesh Line014
+    4300294: Mesh Line014
+    4300296: Mesh Line013
+    4300298: Mesh Line013
+    4300300: Mesh Line012
+    4300302: Mesh Line012
+    4300304: Mesh Line011
+    4300306: Mesh Line011
+    4300308: Mesh Line010
+    4300310: Mesh Line010
+    4300312: Mesh Cylinder009
+    4300314: Mesh Plane031
+    4300316: Mesh Cylinder007
+    4300318: Mesh Line007
+    4300320: Mesh Line007
+    4300322: Mesh Assembly~188
+    4300324: Mesh Assembly~190
+    4300326: Mesh Assembly~192
+    4300328: Mesh Assembly~198
+    4300330: Mesh Assembly~200
+    4300332: Mesh Assembly~202
+    4300334: Mesh Assembly~205
+    4300336: Mesh Assembly~207
+    4300338: Mesh Assembly~209
+    4300340: Mesh Assembly~211
+    4300342: Mesh Assembly~214
+    4300344: Mesh Assembly~216
+    4300346: Mesh Assembly~219
+    4300348: Mesh Assembly~221
+    4300350: Mesh Assembly~223
+    4300352: Mesh Assembly~225
+    4300354: Mesh seat
+    4300356: Mesh Assembly~230
+    4300358: Mesh Cylinder001
+    4300360: Mesh Box005
+    4300362: Mesh Box005
+    4300364: Mesh Tube
+    4300366: Mesh Tube
+    4300368: Mesh Plane032
+    4300370: Mesh Cylinder008
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
