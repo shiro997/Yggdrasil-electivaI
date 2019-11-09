@@ -1,17 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Vuforia;
 
-public class AudioProject : MonoBehaviour
+public class AudioProject : MonoBehaviour, IVirtualButtonEventHandler
 {
 
     public AudioSource audioSource;
     public AudioClip[] audioClipArray;
+    private GameObject repeat;
     AudioClip lastClip;
 
     void Start()
     {
         audioSource.PlayOneShot(RandomClip());
+        repeat = GameObject.Find("repetir");
+        repeat.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
     }
 
     AudioClip RandomClip()
@@ -27,5 +31,15 @@ public class AudioProject : MonoBehaviour
 
         lastClip = newClip;
         return newClip;
+    }
+
+    public void OnButtonPressed(VirtualButtonBehaviour vb)
+    {
+        audioSource.PlayOneShot(lastClip);
+    }
+
+    public void OnButtonReleased(VirtualButtonBehaviour vb)
+    {
+        Debug.Log("liberado prro!!!!!");
     }
 }
