@@ -11,6 +11,14 @@ TagManager:
   - changeable
   - pants
   - house
+  - bicycle
+  - table
+  - keys
+  - camera
+  - car
+  - baggage
+  - apple
+  - pc
   layers:
   - Default
   - TransparentFX
